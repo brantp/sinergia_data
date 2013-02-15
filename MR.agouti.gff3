@@ -1,0 +1,7 @@
+agouti_bac	.	gene	48235	132978	.	+	.	name=agouti
+agouti_bac	.	exon	48235	48366	.	+	.	ID=1A;parent=agouti
+agouti_bac	.	exon	109643	109729	.	+	.	ID=1B;parent=agouti
+agouti_bac	.	exon	109767	109865	.	+	.	ID=1C;parent=agouti
+agouti_bac	.	exon	128000	128169	.	+	.	ID=2;parent=agouti
+agouti_bac	.	exon	129900	129988	.	+	.	ID=3;parent=agouti
+agouti_bac	.	exon	132531	132918	.	+	.	ID=4;parent=agouti
